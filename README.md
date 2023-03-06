@@ -1,4 +1,6 @@
 ![Header](https://github.com/TyanDD/img/blob/main/logo.001.jpeg)
+
+
 Hi! I'm a QA Engineer
 
 ### Tools / Skills
@@ -7,8 +9,9 @@ Hi! I'm a QA Engineer
 ![MySQL](https://img.shields.io/badge/-MySQL-090909??style=for-the-badge&logo=mysql)
 ![DevTools](https://img.shields.io/badge/-DevTools-090909??style=for-the-badge&logo=googlechrome)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909??style=for-the-badge&logo=javascript)
-![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-090909??style=for-the-badge&logo=html)
 ![Android Studio](https://img.shields.io/badge/-Android Studio-090909??style=for-the-badge&logo=androidstudio)
+![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-090909??style=for-the-badge&logo=html)
+
 
 
 ### Testing Documentation and Tools Portfolio
