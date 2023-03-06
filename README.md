@@ -1,9 +1,14 @@
-[![Header](https://github.com/TyanDD/img/blob/main/logo.001.jpeg)
+![Header](https://github.com/TyanDD/img/blob/main/logo.001.jpeg)
 Hi! I'm a QA Engineer
 
-### Tools
+### Tools / Skills
 ![Jira](https://img.shields.io/badge/-Jira-090909??style=for-the-badge&logo=jira)
 ![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909??style=for-the-badge&logo=mysql)
-![DevTools](https://img.shields.io/badge/-DevTools-090909??style=for-the-badge&logo=devtools)
 ![DevTools](https://img.shields.io/badge/-DevTools-090909??style=for-the-badge&logo=googlechrome)
+![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-090909??style=for-the-badge&logo=html)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909??style=for-the-badge&logo=javascript)
+
+
+### Testing Documentation and Tools Portfolio
+- [Test Cases] (https://github.com/TyanDD/test-cases)
