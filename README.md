@@ -1,4 +1,5 @@
-Im beginner QA
+[![Header](https://github.com/TyanDD/img/blob/main/logo.001.jpeg)
+Hi! I'm a QA Engineer
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909??style=for-the-badge&logo=jira)
