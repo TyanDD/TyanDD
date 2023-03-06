@@ -8,7 +8,13 @@ Hi! I'm a QA Engineer
 ![DevTools](https://img.shields.io/badge/-DevTools-090909??style=for-the-badge&logo=googlechrome)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909??style=for-the-badge&logo=javascript)
 ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-090909??style=for-the-badge&logo=html)
+![Android Studio](https://img.shields.io/badge/-Android Studio-090909??style=for-the-badge&logo=androidstudio)
 
 
 ### Testing Documentation and Tools Portfolio
 - [Test Cases](https://github.com/TyanDD/test-cases)
+- [Bug Reports](https://github.com/TyanDD/bug-reports)
+- [Testing Examples](https://github.com/TyanDD/testing-examples)
+- [Test Design Techniques](https://github.com/TyanDD/test-design-techniques)
+- [Postman](https://github.com/TyanDD/postman)
+- [MySQL](https://github.com/TyanDD/mysql)
