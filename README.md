@@ -1,7 +1,8 @@
 ![Header](https://github.com/TyanDD/img/blob/main/logo.001.jpeg)
 
 
-Hi! I'm a QA Engineer
+Hello! I am QA Engineer with proficiency in Manual Testing.
+Highly interested in jobs where I could use my full potential and create successful projects in the team of like-minded people.
 
 ### Tools / Skills
 ![Jira](https://img.shields.io/badge/-Jira-090909??style=for-the-badge&logo=jira)
